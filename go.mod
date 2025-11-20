@@ -1,6 +1,6 @@
 module github.com/go-acme/lego/v4
 
-go 1.23.0
+go 1.24.0
 
 require (
 	cloud.google.com/go/compute/metadata v0.6.0
@@ -80,10 +80,10 @@ require (
 	github.com/vultr/govultr/v3 v3.14.1
 	github.com/yandex-cloud/go-genproto v0.0.0-20250304111827-f558b88ff434
 	github.com/yandex-cloud/go-sdk v0.0.0-20250304120247-c2605c41f59f
-	golang.org/x/crypto v0.35.0
-	golang.org/x/net v0.36.0
+	golang.org/x/crypto v0.45.0
+	golang.org/x/net v0.47.0
 	golang.org/x/oauth2 v0.27.0
-	golang.org/x/text v0.22.0
+	golang.org/x/text v0.31.0
 	golang.org/x/time v0.10.0
 	google.golang.org/api v0.223.0
 	gopkg.in/ns1/ns1-go.v2 v2.13.0
@@ -196,10 +196,10 @@ require (
 	go.uber.org/multierr v1.9.0 // indirect
 	go.uber.org/ratelimit v0.3.0 // indirect
 	golang.org/x/exp v0.0.0-20241210194714-1829a127f884 // indirect
-	golang.org/x/mod v0.22.0 // indirect
-	golang.org/x/sync v0.11.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
-	golang.org/x/tools v0.28.0 // indirect
+	golang.org/x/mod v0.29.0 // indirect
+	golang.org/x/sync v0.18.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/tools v0.38.0 // indirect
 	google.golang.org/genproto v0.0.0-20241021214115-324edc3d5d38 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20241209162323-e6fa225c2576 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250219182151-9fdb1cabc7b2 // indirect
